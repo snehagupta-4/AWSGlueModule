@@ -3,7 +3,7 @@ terraform {
     organization = "Capgemini-sne"
 
     workspaces {
-      name = "DataETLPipeline"
+      name = "AWSGlueModule"
     }
   }
 }
